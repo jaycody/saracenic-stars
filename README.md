@@ -1,9 +1,10 @@
 # saracenic-stars
 generate islamic star patterns from polygons in contact
 
+```
 “No one action will be adequate. All actions will be necessary." 
 - jon stewart re: trump
-
+```
 
 ## New
 * Hyperbolic Heptagonal Tiling 
