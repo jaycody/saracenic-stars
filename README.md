@@ -1,5 +1,5 @@
 # saracenic-stars
-generate islamic star patterns from polygons in contact
+use javascript to generate islamic star patterns from polygons in contact
 
 ```
 “No one action will be adequate. All actions will be necessary." 
