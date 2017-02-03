@@ -1,7 +1,7 @@
 var canvas;
 
 function setup() {
-  canvas = createCanvas(300, 300);
+  canvas = createCanvas(500, 500);
 }
 
 
