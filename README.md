@@ -10,6 +10,7 @@ use javascript to generate islamic star patterns from polygons in contact
 * Hyperbolic Heptagonal Tiling 
 * Hankin’s ‘polygons-in-contact’ method
 * Saracenic Art
+* The efficient representation of surfaces - David A. Huffman UC SantaCruz
 
 
 ## References
