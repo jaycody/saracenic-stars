@@ -2,12 +2,17 @@
 use javascript to generate islamic star patterns from polygons in contact
 
 ```
-“No one action will be adequate. All actions will be necessary." 
+“No one action will be adequate. All actions will be necessary."
 - jon stewart re: trump
 ```
 
+## use
+```
+python -m SimpleHTTPServer
+```
+
 ## New
-* Hyperbolic Heptagonal Tiling 
+* Hyperbolic Heptagonal Tiling
 * Hankin’s ‘polygons-in-contact’ method
 * Saracenic Art
 * The efficient representation of surfaces - David A. Huffman UC SantaCruz
